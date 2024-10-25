@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+.katalog{
+    width: 1920px;
+
+}
+.container{
+    margin: 0 auto;
+    padding: 0 330px;
+}
+.katalog-h1{
+    text-align: center;
+    margin: 120px 0;
+}
+
+.velosiped{
+    width: 100%;
+    height: 300px;
+    background-color: aqua;
+}
+.velosiped img{
+    width: 875px;
+    height: 300px;
+    overflow: hidden;
+}
+.elemeti5{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+}
+.tradein{
+    width: 400px;
+    height: 458px;
+
+}
+.zapstan{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border:  2px solid red;
+
+}
+.box1{
+    width: 100%;
+    height: 216px;
+
+}
+.ekipstan{
+    width: 448px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border:  2px solid red;
+}
+.box2{
+    width: 100%;
+    height: 216px;
+
+}
+.ro{
+    position: relative;
+    left: 268px;
+    bottom:45px;
+}
+.header{
+    background-image:url(1.png) ;
+    width: 1900px;
+    height: 900px;
+}
+.w{
+    color: aliceblue;
+}
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: aliceblue;
+}
+.nav ul{
+    display: flex; 
+}
+.o{
+    padding-left: 150px;
+    color: aliceblue;
+    padding-bottom: 400px;
+
+}
+.p{
+    margin-top: 200px;
+    margin-left: 300px;
+    color: aliceblue;
+    font-size: 100px;
+}
+.u{
+    padding-top: 150px;
+}
+.u{
+
+}
+.rn{
+    padding-left: 245px;
+}
+.velopider{
+    background-color: #F57520;
+    width: 1920px;
+height: 636px;
+
+}
+.e{
+    width:608px;
+height:154px;
+padding: 10px 16px 10px 16px;
+border-radius: 10px;
+}
+.velopider input{
+    margin-left: 100px;
+}
+.e2{
+    width:608px;
+    height:52px;
+    padding: 16px 80px 16px 80px;
+    border-radius: 10px;
+}
+.velo{
+
+}
+iframe{
+    width: 1920px;
+height: 500px;
+margin-top: 300px;
+
+}
